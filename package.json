@@ -1,0 +1,13 @@
+{
+  "name": "fardin",
+  "version": "1.0.0",
+  "description": "its an amazing package",
+  "main": "first node.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "fardin",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {}
+}
